@@ -42,6 +42,7 @@
     <string name="dexcom_log_ns_sensor_change_title">Log sensor change to NS</string>
     <string name="dexcom_log_ns_sensor_change_summary">Create event \"Sensor Change\" in NS automatically on sensor start</string>
     <string name="direction">direction</string>
-
-
+    <!-- Patched OT App -->
+    <string name="patched_ottai_app">Ottai</string>
+    <string name="description_source_patched_ottai_app">Receive blood sugar values from the Ottai App.</string>
 </resources>
